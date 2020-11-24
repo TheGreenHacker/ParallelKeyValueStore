@@ -1,5 +1,8 @@
 # Parallel Key Value Store
 
+## Intro
+Project for CSCI 452/EE 451 course at USC in which I simulated a parallel key-value store system using OpenMPI.
+
 ## Compilation
 To compile the code, run $ make. This will build all the other dependendant binaries. See Makefile for all other targets. To remove all executables, run $ make clean.
 
