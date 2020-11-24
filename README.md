@@ -1,4 +1,4 @@
-# parallel_key_value_store
+# Parallel Key Value Store
 
 ## Compilation
 To compile the code, run $ make. This will build all the other dependendant binaries. See Makefile for all other targets. To remove all executables, run $ make clean.
